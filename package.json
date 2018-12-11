@@ -1,8 +1,8 @@
 {
-  "name": "react-native-contacts",
+  "name": "react-native-contacts-ming",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rt2zz/react-native-contacts.git"
+    "url": "https://github.com/huanduo/react-native-contacts-ming.git"
   },
   "version": "2.2.4",
   "description": "React Native Contacts (android & ios)",
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/rt2zz/react-native-contacts/issues"
   },
-  "homepage": "https://github.com/rt2zz/react-native-contacts",
+  "homepage": "https://github.com/huanduo/react-native-contacts-ming",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
